@@ -1,4 +1,6 @@
-# Clicky Game
+# Nintendo Clicky Game
+### Clicky game using React
+*UCF Bootcamp Assignment Week 19*
 
 ### Downloading This Application
 To use this application:
