@@ -15,4 +15,5 @@ yarn install
 ```
 yarn start
 ```
-![] Capture.png
+### Game Screen
+![game screen](src/images/Capture.JPG)
