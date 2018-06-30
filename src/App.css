@@ -10,6 +10,18 @@ body {
 
 .footer {
   position: absolute;
+  text-align: center;
+  color: beige;
+  background-color: rgb(194, 13, 13);
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+}
+
+.navbar {
+  color: beige;
+  background-color: rgb(194, 13, 13);
   bottom: 0;
   width: 100%;
   height: 60px;
@@ -17,17 +29,13 @@ body {
 }
 
 
-.clickable-images{
+.clickable-images {
   margin: 10px;
+  max-width: 160px;
+  border: none;
 }
 
-.clickable-images:hover {
-  cursor:pointer;
-  -webkit-animation: shadow-drop-2-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-  animation: shadow-drop-2-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+.jumbotron {
+  color: rgb(194, 13, 13);
 }
 
-.scale-down-center {
-  -webkit-animation: scale-down-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-  animation: scale-down-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-}

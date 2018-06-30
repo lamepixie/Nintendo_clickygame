@@ -3,7 +3,7 @@
   "url": "./images/bowser.png"
 },
 {
-  "name": "Fox McCloud",
+  "name": "Fox",
   "url": "./images/fox.png"
 },
 {
@@ -27,11 +27,11 @@
   "url": "./images/ness.png"
 },
 {
-  "name": "Princess Peach",
+  "name": "Peach",
   "url": "./images/peach.png"
 },
 {
-  "name": "Samus Aran",
+  "name": "Samus",
   "url": "./images/samus.png"
 },
 {

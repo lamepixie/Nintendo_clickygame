@@ -71,7 +71,7 @@ class App extends Component {
         return `${Kirby}`
       case "Link":
         return `${Link}`
-      case "Marios":
+      case "Mario":
         return `${Mario}`
       case "Ness":
         return `${Ness}`
@@ -79,14 +79,14 @@ class App extends Component {
         return `${Peach}`
       case "Samus":
         return `${Samus}`
-      case "Toads":
+      case "Toad":
         return `${Toad}`
       case "Yoshi":
         return `${Yoshi}`
       case "Zelda":
         return `${Zelda}`
       default:
-        return `${Bowser}`
+        return `${Mario}`
     }
   }
 
