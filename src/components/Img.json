@@ -1,0 +1,48 @@
+[{
+  "name": "Bowser",
+  "url": "./images/bowser.png"
+},
+{
+  "name": "Fox McCloud",
+  "url": "./images/fox.png"
+},
+{
+  "name": "Ganon",
+  "url": "./images/ganon.png"
+},
+{
+  "name": "Kirby",
+  "url": "./images/kirby.png"
+},
+{
+  "name": "Link",
+  "url": "./images/link.jpg"
+},
+{
+  "name": "Mario",
+  "url": "./images/mario.png"
+},
+{
+  "name": "Ness",
+  "url": "./images/ness.png"
+},
+{
+  "name": "Princess Peach",
+  "url": "./images/peach.png"
+},
+{
+  "name": "Samus Aran",
+  "url": "./images/samus.png"
+},
+{
+  "name": "Toad",
+  "url": "./images/toad.png"
+},
+{
+  "name": "Yoshi",
+  "url": "./images/yoshi.jpg"
+},
+{
+  "name": "Zelda",
+  "url": "./images/zelda.png"
+}]
