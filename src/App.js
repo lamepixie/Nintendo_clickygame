@@ -25,7 +25,7 @@ class App extends Component {
     picked: [],
     correct: 0,
     topscore: 0,
-    message: 'Click an character to begin'
+    message: 'Click any character to begin game'
   };
 
   shuffleArray = (array) => {
@@ -38,7 +38,7 @@ class App extends Component {
   }
 
   pickImg = (name) => {
-    console.log("Clicked!!");
+    console.log("clicked!");
     let picked = this.state.picked;
     
     if (picked.indexOf(name) === -1) {
@@ -46,13 +46,13 @@ class App extends Component {
         picked: picked.concat(name),
         correct: this.state.correct + 1,
         topscore: this.state.correct + 1 > this.state.topscore ? this.state.correct + 1 : this.state.topscore,
-        message: "Correct: Good choice!" 
+        message: "Wahoo! You did it!" 
       })
       this.shuffleArray();
     }
     else {
       this.setState({
-        message: "Incorrect: Play again?",
+        message: "Game Over. Play again?",
         correct: 0,
         picked: []
       })

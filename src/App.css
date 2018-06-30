@@ -3,10 +3,95 @@ html {
   min-height: 100%;
 }
 
-
 body {
   margin-bottom: 60px;
+  background-image: url("./images/clouds.jpg");
 }
+
+img:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar {
+  top: 0;
+  color: beige;
+  background-color: rgb(194, 13, 13);
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+}
+
+.oval {
+  border: 3px solid whitesmoke;
+  height: 40px;
+  width: auto;
+  font-weight: bolder;
+  line-height: 25px;
+  padding: 5px 20px 5px 20px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 60px;
+  
+}
+
+.nes-container {
+  background-color: rgb(231, 228, 228);
+  color: rgb(194, 13, 13);
+  border-left: 6px;
+  border-bottom: 6px;
+  border-right: 6px;
+  border-color: black;
+  overflow: hidden;
+}
+
+.cartridge {
+  float: left;
+  width: 800px;
+  border: 2px solid rgb(104, 102, 102);
+  border-top: none;
+  border-right: none;
+  padding: 10px 200px 0px 10px;
+  margin: 0px 0px 40px 100px;
+}
+
+.info {
+  font-weight: bolder;
+  font-size: 32px;
+  line-height: 10px;
+  padding-top: 40px;
+}
+.sub {
+  font-size: 18px;
+}
+
+.nub {
+  width: 100px;
+  border: 2px solid rgb(104, 102, 102);
+  border-bottom: none;
+  padding: 5px 5px 0px 5px;
+  margin: 0px 350px 0px 350px;
+}
+
+.black {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  border: 3px solid black;
+  border-top: none;
+  padding: 0px 60px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.clickable-images {
+  margin: 10px;
+  max-width: 160px;
+  border: none;
+}
+
+
+
+
 
 .footer {
   position: absolute;
@@ -17,25 +102,5 @@ body {
   width: 100%;
   height: 60px;
   line-height: 60px;
-}
-
-.navbar {
-  color: beige;
-  background-color: rgb(194, 13, 13);
-  bottom: 0;
-  width: 100%;
-  height: 60px;
-  line-height: 60px;
-}
-
-
-.clickable-images {
-  margin: 10px;
-  max-width: 160px;
-  border: none;
-}
-
-.jumbotron {
-  color: rgb(194, 13, 13);
 }
 
