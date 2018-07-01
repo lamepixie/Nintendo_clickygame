@@ -30,9 +30,9 @@ img:hover {
   line-height: 25px;
   padding: 5px 20px 5px 20px;
   margin: 5px 5px 5px 5px;
-  border-radius: 60px;
-  
+  border-radius: 60px;  
 }
+
 
 .nes-container {
   background-color: rgb(231, 228, 228);
@@ -83,15 +83,13 @@ img:hover {
   margin: 0px 0px 0px 0px;
 }
 
-.clickable-images {
+.clickies {
+  background-color: white;
   margin: 10px;
-  max-width: 160px;
+  width: 160px;
+  height: 180px;
   border: none;
 }
-
-
-
-
 
 .footer {
   position: absolute;
