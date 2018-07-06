@@ -2,8 +2,9 @@
 ### Clicky game using React
 *UCF Bootcamp Assignment Week 19*
 
-Play the game: (if I can ever get it successfully deployed!)
+### Play the game: 
 [Nintendo Clicky Game!](https://lamepixie.github.io/Nintendo_clickygame/)
+(If I can ever get it to deploy successfully)
 
 ### Downloading This Application
 To use this application:
