@@ -6,9 +6,7 @@
 [Nintendo Clicky Game!](https://lamepixie.github.io/Nintendo_clickygame/)
 (If I can ever get it to deploy successfully)
 
-### Downloading This Application
-To use this application:
-
+### Download to Play Locally
 1. Clone this repo to your local machine:
 ```
 git clone https://github.com/lamepixie/Nintendo_clickygame.git
@@ -17,7 +15,7 @@ git clone https://github.com/lamepixie/Nintendo_clickygame.git
 ```
 yarn install
 ```
-3. Ready to play on your local? Try:
+3. Ready to play? Try:
 ```
 yarn start
 ```
