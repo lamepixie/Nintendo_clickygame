@@ -1,10 +1,9 @@
 # Nintendo Clicky Game
 ### Clicky game using React
-*UCF Bootcamp Assignment Week 19*
+*Trilogy Full Stack Flex Bootcamp Assignment*
 
 ### Play the game: 
 [Nintendo Clicky Game!](https://lamepixie.github.io/Nintendo_clickygame/)
-(If I can ever get it to deploy successfully)
 
 ### Download to Play Locally
 1. Clone this repo to your local machine:
